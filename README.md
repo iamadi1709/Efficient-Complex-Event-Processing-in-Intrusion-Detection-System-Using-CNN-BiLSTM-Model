@@ -80,8 +80,7 @@ Recall
 F1-Score
 Confusion Matrix
 
-![image](https://github.com/user-attachments/assets/a4f62fdf-d122-4dc9-aeff-05bafacd5e74)
-
+<img width="829" alt="image" src="https://github.com/user-attachments/assets/3685dd97-f4e6-4ec5-9378-7314f539945a">
 
 **Model	                  Accuracy	         Recall	           F1-Score**
 **Random Forest	           98.5%	           97.3%	            97.8%**
