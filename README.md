@@ -80,8 +80,6 @@ Recall
 F1-Score
 Confusion Matrix
 
-<img width="829" alt="image" src="https://github.com/user-attachments/assets/3685dd97-f4e6-4ec5-9378-7314f539945a">
-
 **Model	                  Accuracy	         Recall	           F1-Score**
 **Random Forest	           98.5%	           97.3%	            97.8%**
 
@@ -95,6 +93,8 @@ Here are some key visualizations used in our analysis:
 📈 Correlation Heatmap: Identifying multicollinearity
 📊 Attack Distribution: Imbalance of benign vs attack traffic
 📉 PCA Components: Visualizing dimensionality reduction
+
+<img width="829" alt="image" src="https://github.com/user-attachments/assets/3685dd97-f4e6-4ec5-9378-7314f539945a">
 
 **🚀 Future Work**
 🔄 The prospective investigation on this matter can involve utilising the intrusion detection system (IDS) on a bigger and more complex network. The system may be substantially improved to detect both tried intrusions and also attacks that already occurred. Alteration of classification algorithms would spend less time doing analysis, it will therefore be able to catch cases at a much higher rate. Shortening the time of detection and making detecting the process more accurate will be performed with the help of better algorithms. In addition, future work should deal with expanding the range of threats addressed especially inside complex networks in order to let the IDS operate optimally.
