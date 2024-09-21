@@ -1,5 +1,7 @@
 **🚀 Efficient Complex Event Processing in Intrusion Detection System Using CNN-BiLSTM Model 🌐**
 
+CIC-IDS Dataset: https://www.unb.ca/cic/datasets/ids-2018.html
+
 ![image](https://github.com/user-attachments/assets/4fb4854a-82d1-47b7-a5c9-34314ab6046a)
 
 Intrusion Detection Systems (IDSs) are the digital guardians 🛡️ of our computer networks, defending them from malicious attacks. This project presents a hybrid CNN-BiLSTM model for real-time intrusion detection using Complex Event Processing (CEP). Unlike traditional IDS, which struggles with new and unidentified threats, our system detects both known and unknown attacks, just like a skilled detective 🕵️‍♂️ piecing together clues from network traffic.
