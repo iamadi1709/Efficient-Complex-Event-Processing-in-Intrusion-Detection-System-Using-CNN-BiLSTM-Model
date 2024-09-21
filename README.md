@@ -1,8 +1,14 @@
 **🚀 Efficient Complex Event Processing in Intrusion Detection System Using CNN-BiLSTM Model 🌐**
 
+![image](https://github.com/user-attachments/assets/4fb4854a-82d1-47b7-a5c9-34314ab6046a)
+
 Intrusion Detection Systems (IDSs) are the digital guardians 🛡️ of our computer networks, defending them from malicious attacks. This project presents a hybrid CNN-BiLSTM model for real-time intrusion detection using Complex Event Processing (CEP). Unlike traditional IDS, which struggles with new and unidentified threats, our system detects both known and unknown attacks, just like a skilled detective 🕵️‍♂️ piecing together clues from network traffic.
 
+![image](https://github.com/user-attachments/assets/6f5fe057-c251-45bd-b0a7-279c3f836ebe)
+
 📑 **Abstract: Intrusion detection systems are essential for securing computer networks against cyberattacks. However, conventional IDSs fail to detect unusual or unknown attacks as they rely on the signature of known threats. This project introduces a CNN-BiLSTM hybrid model that leverages Complex Event Processing (CEP) for real-time attack detection. Using the CIC-IDS2017 dataset, our model can successfully identify multiple attack categories that traditional methods often miss. I have compared the performance of this model against Random Forest, which showed higher accuracy but the CNN-BiLSTM demonstrated significant promise in handling unknown threats.**
+
+![image](https://github.com/user-attachments/assets/a63f69b9-be88-4e81-9b8f-98ff452a2591)
 
 **🔍 Dataset Overview**
 **CIC-IDS2017 Dataset:**
@@ -35,6 +41,8 @@ Train with Random Forest, Logistic Regression, SVM, Decision Tree, KNN
 
 **7. Performance Evaluation 📈**
 Evaluate using Accuracy, Recall, F1-score, Confusion Matrix
+
+![image](https://github.com/user-attachments/assets/c3d5d689-ad4d-41ef-8146-2fd1e8365ff9)
 
 **🔍 Exploratory Data Analysis**
 We discovered:
@@ -71,6 +79,9 @@ Accuracy
 Recall
 F1-Score
 Confusion Matrix
+
+![image](https://github.com/user-attachments/assets/a4f62fdf-d122-4dc9-aeff-05bafacd5e74)
+
 
 **Model	                  Accuracy	         Recall	           F1-Score**
 **Random Forest	           98.5%	           97.3%	            97.8%**
